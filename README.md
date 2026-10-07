@@ -16,7 +16,6 @@
 
 <div align="center">
 
-<img src="./assets/logo.png" alt="WorkerTI Logo" width="90"/>
 
 # 🕵️‍♂️ Como Pegar um Criminoso Online
 
