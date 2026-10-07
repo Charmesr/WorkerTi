@@ -1,20 +1,6 @@
-# 🕵️‍♂️ Como Pegar um Criminoso Online
-
-  ### Projeto Integrador – Perícia Computacional
-  
-  **Equipe WorkerTI**
-
-  <img width="600" height="800" alt="image" src="https://github.com/user-attachments/assets/26bb0877-4588-4679-9bb1-74805fce491f" />
-
-*"Bee Productive!"*
-
-![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
-![Área](https://img.shields.io/badge/área-perícia%20computacional-blue)
-![Licença](https://img.shields.io/badge/uso-acadêmico-lightgrey)
-
 <div align="center">
 
-<img src="./assets/logo.png" alt="WorkerTI Logo" width="90"/>
+<img src="https://github.com/user-attachments/assets/26bb0877-4588-4679-9bb1-74805fce491f" alt="WorkerTI Logo" width="220"/>
 
 # 🕵️‍♂️ Como Pegar um Criminoso Online
 
@@ -22,7 +8,7 @@
 
 **Equipe WorkerTI**
 
-*"Be Productive!"*
+*"Bee Productive!"*
 
 ![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
 ![Área](https://img.shields.io/badge/área-perícia%20computacional-blue)
